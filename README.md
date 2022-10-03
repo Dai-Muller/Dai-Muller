@@ -14,7 +14,7 @@ I'm Daiane and I always liked everything related to technology, and, as a teenag
 
 ## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/bars-progress.svg" width="20" height="20"> Starter Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dai-Muller&repo=Dai-Muller.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dai-Muller&repo=Dai-Muller.github.io)](https://github.com/Dai-Muller/Dai-Muller.github.io)
 
 ## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/address-card.svg" width="20" height="20"> Contact Me
 
